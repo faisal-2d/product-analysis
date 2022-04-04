@@ -1,5 +1,5 @@
 # Smart Shop
-You can get reviews about smart watch in our [Smart Shop](https://app.netlify.com/sites/merry-kelpie-54e4ca/overview).
+You can get reviews about smart watch in our [Smart Shop](https://merry-kelpie-54e4ca.netlify.app/).
 
 
 ## Our Features:

@@ -1,0 +1,9 @@
+[
+    {"id":1, "name": "Shahriar Haque", "comment": "This is a good product", "rating": 4 },
+    {"id":2, "name": "Tanjelus Saad Jim", "comment": "Sometimes it restarts automaticaly", "rating": 3 },
+    {"id":3, "name": "Sajidu Karim", "comment": "Very long lasting watch with reasonalbe price", "rating": 4 },
+    {"id":4, "name": "Ahsanul Haque", "comment": "Looks good but heavy", "rating": 3 },
+    {"id":5, "name": "Rafiq Mia", "comment": "The display is broken", "rating": 2 },
+    {"id":6, "name": "Abdullah Shams", "comment": "This watch is amazing!", "rating": 5 }
+    
+]

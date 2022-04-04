@@ -1,7 +1,7 @@
 [
     {"id":1, "name": "Shahriar Haque", "comment": "This is a good product. It is bright enough in the sun. You can buy it!", "rating": 4 },
     {"id":2, "name": "Tanjelus Saad Jim", "comment": "Sometimes it restarts automaticaly. Other features are just fine.", "rating": 3 },
-    {"id":3, "name": "Sajidu Karim", "comment": "Very long lasting watch with reasonalbe price. Unfortunately i got some scatch on the display. ", "rating": 4 },
+    {"id":3, "name": "Sajidul Karim", "comment": "Very long lasting watch with reasonalbe price. Unfortunately i got some scatch on the display. ", "rating": 4 },
     {"id":4, "name": "Ahsanul Haque", "comment": "Looks good but heavy. It has many uniqe features like stop watch, timer, alarm!", "rating": 3 },
     {"id":5, "name": "Rafiq Mia", "comment": "The display is broken. I don't recommend to buy this. Dont waste yore money!", "rating": 2 },
     {"id":6, "name": "Abdullah Shams", "comment": "This watch is amazing! It is waterproofed too!", "rating": 5 }

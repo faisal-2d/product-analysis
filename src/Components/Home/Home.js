@@ -13,7 +13,7 @@ const Home = () => {
 
   return (
     <div>
-      <div className="container m-8 p-8 grid md:grid-flow-col gap-24 items-center">
+      <div className="container my-8 mx-auto p-8 grid md:grid-flow-col gap-24 items-center">
         <div className="text-left">
           <h1 className="text-4xl my-5">Fitness Tracker<span className="text-green-500"> Smart Watch</span>  </h1>
           <p>
@@ -26,14 +26,14 @@ const Home = () => {
             Buy Now
           </button>
         </div>
-        <div className="w-50">
-          <img src="../../../watch.jpg" alt="" />
+        <div>
+          <img className="w-30 md: w-50" src="../../../watch.jpg" alt="" />
         </div>
       </div>
       <div>
         <h1 className="mb-16">
           <span className="rounded bg-gray-300 px-8 py-2">
-            Our Customars' review
+            Our Customers' review
           </span>
         </h1>
         <div className="grid md:grid-cols-3 gap-10 p-16">

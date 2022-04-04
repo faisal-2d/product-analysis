@@ -23,10 +23,10 @@ const Dashboard = () => {
   console.log(graphData);
 
   return (
-    <div className="container flex-wrap md:flex p-12">
+    <div className="container flex-wrap md:flex p-12 justify-center">
       <div>
         <LineChart
-          width={550}
+          width={450}
           height={250}
           data={graphData}
           margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
@@ -40,7 +40,7 @@ const Dashboard = () => {
         </LineChart>
       </div>
       <div>
-        <BarChart width={550} height={250} data={graphData}>
+        <BarChart width={450} height={250} data={graphData}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" />
           <YAxis />

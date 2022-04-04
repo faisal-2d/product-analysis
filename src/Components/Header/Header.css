@@ -1,17 +1,11 @@
 nav{
-    margin: 50px;
+    margin: 50px auto;
 }
 .active-link, .link{
     padding: 5px 20px;
     border-radius: 5px;
+    margin: 0 10px;
 }
 .active-link{    
-    background-color: rgb(216, 215, 215);
-    margin-left: 20px; 
-    
-}
-
-.link{
-    margin-left: 20px;  
-
+    background-color: rgb(216, 215, 215);    
 }

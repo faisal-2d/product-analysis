@@ -1,3 +1,27 @@
+# Smart Shop
+You can get reviews about smart watch in our [Smart Shop](https://app.netlify.com/sites/merry-kelpie-54e4ca/overview).
+
+
+## Our Features:
+
+* Reviews from verifies customer
+* Graphical visualization of sales in every month
+* Important Blog articles
+* Responsive Site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
